@@ -1,5 +1,6 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://webjump233.sharepoint.com/:f:/s/AC-EdgeDeliveryService/ErivV3gmyGVEn5qR0cJo7M8B36KgDYC1pXYvGrm-f11MkQ
+  # /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
 
 folders:
   /products/: /products/default
